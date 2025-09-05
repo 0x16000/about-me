@@ -11,7 +11,13 @@ Projects: BSD-lite (BSD-4.4-lite2 fork), Unics (Unix-like operating system), Bun
 I also play football, and a ***huge*** Ronaldinho fanboy. Yes I am decent at dribbling, and I hope that I will become like him one day.
 Position I play in: Right Winger
 
+I speak these langugaes:
+German
+English (American)
+Part of korean
+And part of brazilian portuguese
+
 I am sorry if you have to view this through GitHub but I don't have any other option right now.
 
 Contact me under: verzeulowkey@gmail.com
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+----------------------------------------
