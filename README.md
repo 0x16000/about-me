@@ -26,6 +26,7 @@ I speak these languages:
 
 Who do I want to meet?
 > Bill Joy
+
 > Linus Torvalds
 
 Sexuality:
