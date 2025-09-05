@@ -8,6 +8,8 @@ I program in languages like: C/C++/D/ASM/Python
 Mainly I like to program in the low level zone, meaning i often do very complex and direct things talking to my machine.
 Projects: BSD-lite (BSD-4.4-lite2 fork), Unics (Unix-like operating system), Bunix (Unix-like operating system).
 
+As a daily driver I use: FreeBSD
+
 I also play football, and a ***huge*** Ronaldinho fanboy. Yes I am decent at dribbling, and I hope that I will become like him one day.
 Position I play in: Right Winger
 
