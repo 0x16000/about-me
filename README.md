@@ -14,13 +14,13 @@ I also play football, and a ***huge*** Ronaldinho fanboy. Yes I am decent at dri
 Position I play in: Right Winger
 
 I speak these languages:
->German<
+>German
 
->English (American)<
+>English (American)
 
->Part of korean<
+>Part of korean
 
->And part of brazilian portuguese<
+>And part of brazilian portuguese
 
 Sexuality:
 Straight
