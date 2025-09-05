@@ -12,7 +12,7 @@ Projects: BSD-lite (BSD-4.4-lite2 fork), Unics (Unix-like operating system), Bun
 
 As a daily driver I use: FreeBSD
 
-I also play football, and Im a ***huge*** Ronaldinho fanboy. Yes I am decent at dribbling, and I hope that I will become like him one day.
+I also play football/futsal, and Im a ***huge*** Ronaldinho fanboy. Yes I am decent at dribbling, and I hope that I will become like him one day.
 Position I play in: Right Winger
 
 I speak these languages:
