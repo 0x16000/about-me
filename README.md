@@ -24,6 +24,10 @@ I speak these languages:
 
 >And part of brazilian portuguese
 
+Who do I want to meet?
+> Bill Joy
+> Linus Torvalds
+
 Sexuality:
 Straight
 
