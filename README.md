@@ -10,6 +10,9 @@ I started my programming career at a very young age starting with C -> ASM -> C+
 Mainly I like to program in the low level zone, meaning i often do very complex and direct things talking to my machine.
 Projects: BSD-lite (BSD-4.4-lite2 fork), Unics (Unix-like operating system), Bunix (Unix-like operating system).
 
+Why do I work on low level software - or the BSD fork?
+Because i really want to know what's happening under the hood of an kernel, and It just feels right to do quote on quote actual programming.
+
 As a daily driver I use: FreeBSD
 
 I also play football/futsal, and Im a ***huge*** Ronaldinho fanboy. Yes I am decent at dribbling, and I hope that I will become like him one day.
